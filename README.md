@@ -1,2 +1,2 @@
-# mini_project
+# Data Cleaning Mini Projects
  
